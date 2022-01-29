@@ -8,7 +8,7 @@ Thanks To@xiaozhuolao's membership data.
 [rewrite_local]
 # Xmind Unlock annual subscriptions （by LTribe）
 # https?:\/\/.*\.xmind\..*\/_res\/devices url script-response-body XMind.js
-https:\/\/www\.xmind\.net\/\_res\/devices url script-response-body AndrewXiang/ToDo/Script/xmind.js
+https:\/\/www\.xmind\.net\/\_res\/devices url script-response-body AndrewXiang/ToDo/Script/XMind.js
 
 
 [mitm]
